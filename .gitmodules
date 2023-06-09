@@ -1,4 +1,0 @@
-[submodule "meta-openembedded/meta-qt5"]
-	path = meta-openembedded/meta-qt5
-	url = https://github.com/thead-yocto-mirror/meta-qt5.git
-	branch = langdale-thead-V1.1.2
