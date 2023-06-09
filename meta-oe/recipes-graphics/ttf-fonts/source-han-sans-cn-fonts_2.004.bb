@@ -17,7 +17,7 @@ SRC_URI = " \
 SRC_URI[md5sum] = "d16abc21f6575bb08894efedbed484a2"
 SRC_URI[sha256sum] = "0a0e1d8e52833bc352d454d8242da03b82c0efc41323fb66f7435e5b39734a4f"
 
-S = "${WORKDIR}/SourceHanSansCN"
+S = "${WORKDIR}/branches"
 
 do_install() {
     install -d ${D}${sysconfdir}/fonts/conf.d/
